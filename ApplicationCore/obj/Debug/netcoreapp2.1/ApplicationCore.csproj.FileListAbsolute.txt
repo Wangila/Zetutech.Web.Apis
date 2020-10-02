@@ -1,0 +1,17 @@
+C:\Users\brian\SoftwareEngineering\DotNet\Zetutech.Web.Api\ApplicationCore\bin\Debug\netcoreapp2.1\Zetutech.Web.Api.ApplicationCore.deps.json
+C:\Users\brian\SoftwareEngineering\DotNet\Zetutech.Web.Api\ApplicationCore\bin\Debug\netcoreapp2.1\Zetutech.Web.Api.ApplicationCore.dll
+C:\Users\brian\SoftwareEngineering\DotNet\Zetutech.Web.Api\ApplicationCore\bin\Debug\netcoreapp2.1\Zetutech.Web.Api.ApplicationCore.pdb
+C:\Users\brian\SoftwareEngineering\DotNet\Zetutech.Web.Api\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\brian\SoftwareEngineering\DotNet\Zetutech.Web.Api\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\brian\SoftwareEngineering\DotNet\Zetutech.Web.Api\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\brian\SoftwareEngineering\DotNet\Zetutech.Web.Api\ApplicationCore\obj\Debug\netcoreapp2.1\Zetutech.Web.Api.ApplicationCore.dll
+C:\Users\brian\SoftwareEngineering\DotNet\Zetutech.Web.Api\ApplicationCore\obj\Debug\netcoreapp2.1\Zetutech.Web.Api.ApplicationCore.pdb
+C:\Users\brian\SoftwareEngineering\Zetutech.Web.Api\ApplicationCore\bin\Debug\netcoreapp2.1\Zetutech.Web.Api.ApplicationCore.deps.json
+C:\Users\brian\SoftwareEngineering\Zetutech.Web.Api\ApplicationCore\bin\Debug\netcoreapp2.1\Zetutech.Web.Api.ApplicationCore.dll
+C:\Users\brian\SoftwareEngineering\Zetutech.Web.Api\ApplicationCore\bin\Debug\netcoreapp2.1\Zetutech.Web.Api.ApplicationCore.pdb
+C:\Users\brian\SoftwareEngineering\Zetutech.Web.Api\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\brian\SoftwareEngineering\Zetutech.Web.Api\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\brian\SoftwareEngineering\Zetutech.Web.Api\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\brian\SoftwareEngineering\Zetutech.Web.Api\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\brian\SoftwareEngineering\Zetutech.Web.Api\ApplicationCore\obj\Debug\netcoreapp2.1\Zetutech.Web.Api.ApplicationCore.dll
+C:\Users\brian\SoftwareEngineering\Zetutech.Web.Api\ApplicationCore\obj\Debug\netcoreapp2.1\Zetutech.Web.Api.ApplicationCore.pdb
